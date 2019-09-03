@@ -1,11 +1,23 @@
 [{
-	"relation": ["delegate_permission/common.handle_all_urls"],
-	"target": {
-		"namespace": "android_app",
-		"package_name": "com.fta.rctitv",
-		"sha256_cert_fingerprints": [
-			"A4:02:4E:B9:99:91:1A:77:5E:0F:29:76:3C:2F:93:BA:A9:B3:6A:03:6F:B8:4D:BD:6C:3A:79:B4:BD:D6:34:9C",
-			"5E:B3:22:49:1A:F4:D0:61:F4:65:77:1B:FB:B4:E2:1F:E3:B3:A9:86:D8:DD:57:10:59:BE:A9:78:6E:C3:98:91"
-		]
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.fta.rctitv",
+			"sha256_cert_fingerprints": [
+				"A4:02:4E:B9:99:91:1A:77:5E:0F:29:76:3C:2F:93:BA:A9:B3:6A:03:6F:B8:4D:BD:6C:3A:79:B4:BD:D6:34:9C",
+				"5E:B3:22:49:1A:F4:D0:61:F4:65:77:1B:FB:B4:E2:1F:E3:B3:A9:86:D8:DD:57:10:59:BE:A9:78:6E:C3:98:91"
+			]
+		}
+	},
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.fta.rc.rctitv",
+			"sha256_cert_fingerprints": [
+				"A4:02:4E:B9:99:91:1A:77:5E:0F:29:76:3C:2F:93:BA:A9:B3:6A:03:6F:B8:4D:BD:6C:3A:79:B4:BD:D6:34:9C",
+				"5E:B3:22:49:1A:F4:D0:61:F4:65:77:1B:FB:B4:E2:1F:E3:B3:A9:86:D8:DD:57:10:59:BE:A9:78:6E:C3:98:91"
+			]
+		}
 	}
-}]
+]
