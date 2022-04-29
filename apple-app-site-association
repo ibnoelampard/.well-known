@@ -1,31 +1,19 @@
 {
-  "applinks":{
-    "apps":[
-
-    ],
-    "details":[
+  "applinks": {
+    "apps": [],
+    "details": [
       {
-        "appID":"3B84HCXM7T.com.she.sehatq",
-        "paths":[
-          "NOT /login/*",
-          "NOT /daftar/email/",
-          "NOT /tag/coronavirus/",
-          "/info-kesehatan/*",
-          "/artikel/*",
-          "/obat/*",
-          "/penyakit/*",
-          "/promo/*",
-          "/tag/*",
-          "/author/*",
-          "/reviewer/*",
-          "/faskes/*",
-          "/dokter/*",
-          "/layanan-kesehatan/*",
-          "/telemed/*",
-          "/tes-kesehatan/",
-          "/tes-kesehatan/kalkulator-bmi/",
-          "/layanan-pemeriksaan/*",
-          "/profil/*/aktivitas/booking/*"
+        "appID": "VMT978U3W2.com.eventori.app",
+        "paths": [
+          "/",
+          "/eventmagz",
+          "/eventmagz/slug-url",
+          "/partner/talent/id/name-talent",
+          "/partner/influencer/id/name-influencer",
+          "/partner/venue/id/name-venue",
+          "/partner/vendor/id/name-vendor",
+          "/tv",
+          "/tv/id/slug-url"
         ]
       }
     ]
