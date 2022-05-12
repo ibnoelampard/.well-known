@@ -8,7 +8,7 @@
           "/",
           "/eventmagz",
           "/eventmagz/*",
-          "/partner/*",
+          "/partner",
           "/partner/talent",
           "/partner/influencer",
           "/partner/venue",
