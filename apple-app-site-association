@@ -10,7 +10,6 @@
           "/eventmagz",
           "/partner",
           "/partner/*",
-          "/partner/talent",
           "/tv",
           "/tv/*"
         ]
