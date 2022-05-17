@@ -1,1 +1,21 @@
-{"applinks":{"apps":[],"details":[{"appID":"VMT978U3W2.com.eventori.app","paths":["/","/*","/eventmagz","/partner","/partner/*","/tv","/tv/*"]}]}}
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VMT978U3W2.com.eventori.app",
+        "paths": [
+          "/",
+          "/*",
+          "/eventmagz",
+          "/partner",
+          "/partner/*",
+          "/tv",
+          "/tv/*",
+          "/feeds",
+          "/feeds/*"
+        ]
+      }
+    ]
+  }
+}
